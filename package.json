@@ -1,0 +1,22 @@
+{
+  "name": "jquery-bitbucket-tracker",
+  "version": "0.1.0",
+  "description": "Track your public repositories from Bitbucket",
+  "main": "bbucketTrack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jslirola/jquery-bitbucket-tracker.git"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ],
+  "author": "JSLirola <jslirola@andalucia-devs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jslirola/jquery-bitbucket-tracker/issues"
+  },
+  "homepage": "https://github.com/jslirola/jquery-bitbucket-tracker#readme"
+}
